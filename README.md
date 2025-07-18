@@ -28,8 +28,7 @@ Easy deployment and reproducibility
 🚀 How to Run the App
 
 1. Clone the Repository
-git clone https://github.com/yourusername/heart-disease-predictor.git
-cd heart-disease-predictor
+git clone https://github.com/Ewaoluwayemi/DSA-Project_Heart-Disease-Prediction-.git
 
 
 3. (Optional) Create a Virtual Environment
