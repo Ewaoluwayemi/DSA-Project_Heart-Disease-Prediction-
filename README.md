@@ -31,7 +31,7 @@ Easy deployment and reproducibility
 git clone https://github.com/Ewaoluwayemi/DSA-Project_Heart-Disease-Prediction-.git
 
 
-3. (Optional) Create a Virtual Environment
+3. Create a Virtual Environment
    
 python -m venv venv
 source venv/bin/activate       # On Windows: venv\Scripts\activate
